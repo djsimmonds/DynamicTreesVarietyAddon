@@ -1,0 +1,212 @@
+[
+  {
+    "select": "minecraft:birch_forest",
+    "apply": {
+      "species": {
+        "random": {
+          "dtvariety:birch_se_low_up_low": 1,
+          "dtvariety:birch_se_mid_up_low": 1,
+          "dtvariety:birch_se_high_up_low": 1,
+          "dtvariety:birch_se_low_up_mid": 1,
+          "dtvariety:birch_se_mid_up_mid": 1,
+          "dtvariety:birch_se_high_up_mid": 1,
+          "dtvariety:birch_se_low_up_high": 1,
+          "dtvariety:birch_se_mid_up_high": 1,
+          "dtvariety:birch_se_high_up_high": 1
+        }
+      },
+      "chance": "standard",
+      "density": [1],
+      "forestness": 1
+    }
+  },
+  {
+    "select": "minecraft:dark_forest",
+    "apply": {
+      "species": {
+        "random": {
+          "dtvariety:dark_oak_se_low_up_low": 1,
+          "dtvariety:dark_oak_se_mid_up_low": 1,
+          "dtvariety:dark_oak_se_high_up_low": 1,
+          "dtvariety:dark_oak_se_low_up_mid": 1,
+          "dtvariety:dark_oak_se_mid_up_mid": 1,
+          "dtvariety:dark_oak_se_high_up_mid": 1,
+          "dtvariety:dark_oak_se_low_up_high": 1,
+          "dtvariety:dark_oak_se_mid_up_high": 1,
+          "dtvariety:dark_oak_se_high_up_high": 1
+        }
+      },
+      "chance": "standard",
+      "density": [2],
+      "forestness": 1
+    }
+  },
+  {
+    "select": "minecraft:forest",
+    "apply": {
+      "species": {
+        "random": {
+          "dtvariety:oak_se_low_up_low": 1,
+          "dtvariety:oak_se_mid_up_low": 1,
+          "dtvariety:oak_se_high_up_low": 1,
+          "dtvariety:oak_se_low_up_mid": 1,
+          "dtvariety:oak_se_mid_up_mid": 1,
+          "dtvariety:oak_se_high_up_mid": 1,
+          "dtvariety:oak_se_low_up_high": 1,
+          "dtvariety:oak_se_mid_up_high": 1,
+          "dtvariety:oak_se_high_up_high": 1
+        }
+      },
+      "chance": "standard",
+      "density": [1],
+      "forestness": 1
+    }
+  },
+  {
+    "select": "minecraft:jungle",
+    "apply": {
+      "species": {
+        "random": {
+          "dtvariety:jungle_se_low_up_low": 1,
+          "dtvariety:jungle_se_mid_up_low": 1,
+          "dtvariety:jungle_se_high_up_low": 1,
+          "dtvariety:jungle_se_low_up_mid": 1,
+          "dtvariety:jungle_se_mid_up_mid": 1,
+          "dtvariety:jungle_se_high_up_mid": 1,
+          "dtvariety:jungle_se_low_up_high": 1,
+          "dtvariety:jungle_se_mid_up_high": 1,
+          "dtvariety:jungle_se_high_up_high": 1
+        }
+      },
+      "chance": "standard",
+      "density": [3],
+      "forestness": 1
+    }
+  },
+  {
+    "select": "minecraft:old_growth_birch_forest",
+    "apply": {
+      "species": {
+        "random": {
+          "dtvariety:tall_birch_se_low_up_low": 1,
+          "dtvariety:tall_birch_se_mid_up_low": 1,
+          "dtvariety:tall_birch_se_high_up_low": 1,
+          "dtvariety:tall_birch_se_low_up_mid": 1,
+          "dtvariety:tall_birch_se_mid_up_mid": 1,
+          "dtvariety:tall_birch_se_high_up_mid": 1,
+          "dtvariety:tall_birch_se_low_up_high": 1,
+          "dtvariety:tall_birch_se_mid_up_high": 1,
+          "dtvariety:tall_birch_se_high_up_high": 1
+        }
+      },
+      "chance": "standard",
+      "density": [1],
+      "forestness": 1
+    }
+  },
+  {
+    "select": "minecraft:old_growth_spruce_taiga",
+    "apply": {
+      "species": {
+        "random": {
+          "dtvariety:mega_spruce_se_low_up_low": 1,
+          "dtvariety:mega_spruce_se_mid_up_low": 1,
+          "dtvariety:mega_spruce_se_high_up_low": 1,
+          "dtvariety:mega_spruce_se_low_up_mid": 1,
+          "dtvariety:mega_spruce_se_mid_up_mid": 1,
+          "dtvariety:mega_spruce_se_high_up_mid": 1,
+          "dtvariety:mega_spruce_se_low_up_high": 1,
+          "dtvariety:mega_spruce_se_mid_up_high": 1,
+          "dtvariety:mega_spruce_se_high_up_high": 1
+        }
+      },
+      "chance": "standard",
+      "density": [1],
+      "forestness": 1
+    }
+  },
+  {
+    "select": "minecraft:savanna",
+    "apply": {
+      "species": {
+        "random": {
+          "dtvariety:acacia_se_low_up_low": 1,
+          "dtvariety:acacia_se_mid_up_low": 1,
+          "dtvariety:acacia_se_high_up_low": 1,
+          "dtvariety:acacia_se_low_up_mid": 1,
+          "dtvariety:acacia_se_mid_up_mid": 1,
+          "dtvariety:acacia_se_high_up_mid": 1,
+          "dtvariety:acacia_se_low_up_high": 1,
+          "dtvariety:acacia_se_mid_up_high": 1,
+          "dtvariety:acacia_se_high_up_high": 1
+        }
+      },
+      "chance": "standard",
+      "density": [0.1],
+      "forestness": 0
+    }
+  },
+  {
+    "select": "minecraft:sparse_jungle",
+    "apply": {
+      "species": {
+        "random": {
+          "dtvariety:mega_jungle_se_low_up_low": 1,
+          "dtvariety:mega_jungle_se_mid_up_low": 1,
+          "dtvariety:mega_jungle_se_high_up_low": 1,
+          "dtvariety:mega_jungle_se_low_up_mid": 1,
+          "dtvariety:mega_jungle_se_mid_up_mid": 1,
+          "dtvariety:mega_jungle_se_high_up_mid": 1,
+          "dtvariety:mega_jungle_se_low_up_high": 1,
+          "dtvariety:mega_jungle_se_mid_up_high": 1,
+          "dtvariety:mega_jungle_se_high_up_high": 1
+        }
+      },
+      "chance": "standard",
+      "density": [0.2],
+      "forestness": 1
+    }
+  },
+  {
+    "select": "minecraft:swamp",
+    "apply": {
+      "species": {
+        "random": {
+          "dtvariety:swamp_oak_se_low_up_low": 1,
+          "dtvariety:swamp_oak_se_mid_up_low": 1,
+          "dtvariety:swamp_oak_se_high_up_low": 1,
+          "dtvariety:swamp_oak_se_low_up_mid": 1,
+          "dtvariety:swamp_oak_se_mid_up_mid": 1,
+          "dtvariety:swamp_oak_se_high_up_mid": 1,
+          "dtvariety:swamp_oak_se_low_up_high": 1,
+          "dtvariety:swamp_oak_se_mid_up_high": 1,
+          "dtvariety:swamp_oak_se_high_up_high": 1
+        }
+      },
+      "chance": "standard",
+      "density": [0.2],
+      "forestness": 0
+    }
+  },
+  {
+    "select": "minecraft:taiga",
+    "apply": {
+      "species": {
+        "random": {
+          "dtvariety:spruce_se_low_up_low": 1,
+          "dtvariety:spruce_se_mid_up_low": 1,
+          "dtvariety:spruce_se_high_up_low": 1,
+          "dtvariety:spruce_se_low_up_mid": 1,
+          "dtvariety:spruce_se_mid_up_mid": 1,
+          "dtvariety:spruce_se_high_up_mid": 1,
+          "dtvariety:spruce_se_low_up_high": 1,
+          "dtvariety:spruce_se_mid_up_high": 1,
+          "dtvariety:spruce_se_high_up_high": 1
+        }
+      },
+      "chance": "standard",
+      "density": [1],
+      "forestness": 0
+    }
+  }
+]
